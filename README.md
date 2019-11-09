@@ -1,3 +1,15 @@
+[![ha_version](https://img.shields.io/badge/home%20assistant-0.92%2B-yellow.svg)](https://www.home-assistant.io)
+[![version](https://img.shields.io/badge/version-2.2.0-green.svg)](#)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+This repo is not going to be maintaned in the future.
+The cards for the HASL platforms moved to:
+* [`Departure Card`](https://github.com/hasl-platform/lovelace-hasl-departure-card)
+* [`Traffic Status Card`](https://github.com/hasl-platform/lovelace-hasl-traffic-status-card)
+
+The new repositories don't use custom updater any more but HACS.
+
 Home Assistant SL Sensor (HASL) Cards
 ===============================
 
