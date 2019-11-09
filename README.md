@@ -7,8 +7,7 @@
 >The cards for the HASL platforms moved to:**
 >* [`Departure Card`](https://github.com/hasl-platform/lovelace-hasl-departure-card)
 >* [`Traffic Status Card`](https://github.com/hasl-platform/lovelace-hasl-traffic-status-card)
-
->The new repositories don't use custom updater any more but HACS.
+>*The new repositories don't use custom updater any more but HACS.*
 
 Home Assistant SL Sensor (HASL) Cards
 ===============================
