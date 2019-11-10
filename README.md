@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 >**_Important:_ This repo is not going to be maintained in the future.**
->**The cards for the HASL platforms moved to:**
+>**The cards for the HASL platform moved to:**
 >* [`Departure Card`](https://github.com/hasl-platform/lovelace-hasl-departure-card)
 >* [`Traffic Status Card`](https://github.com/hasl-platform/lovelace-hasl-traffic-status-card)
 >
